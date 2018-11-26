@@ -22,5 +22,6 @@
 ## What it should improve
 
 * Loading spinner
+* Add filter, sorting, pagination
 * Generalize input filed as a shared component with validation
 * Generalize form as a shared component with validation
